@@ -1,0 +1,3 @@
+user: user@g.c 		|
+admin:admin@g.c		|  pw :12345678
+editor:editor@g.c	|
